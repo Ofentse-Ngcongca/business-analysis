@@ -1,6 +1,6 @@
 # Business Analysis
 
-A collection of business case studies applying BA methodology — PESTEL, stakeholder
+A collection of business case studies applying BA methodology, PESTEL, stakeholder
 analysis, competitor analysis, and regulatory strategy to real, current technology
 and market-entry problems. Written with a South African context, connecting my
 Computer Science and Business Management background to practical strategic analysis.
