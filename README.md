@@ -19,12 +19,4 @@ mapping, market-entry strategy, evidence-based recommendation writing
 
 ---
 
-## About
-
-I'm a final-year BSc Information Technology student at the University of the Free
-State, specialising in Computer Science and Business Management. These case studies
-sit alongside my Data Engineering and Business Intelligence portfolio work — this
-folder is where I apply the same evidence-based, data-informed thinking to business
-and strategy problems rather than technical builds.
-
 📫 [LinkedIn](https://www.linkedin.com/in/ofentse-ngcongca-bb0a58272/) · [Main Portfolio](https://github.com/Ofentse-Ngcongca/Ofentse-Ngcongca)
